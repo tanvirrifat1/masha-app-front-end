@@ -1,0 +1,30 @@
+<div>
+        <h2> This is a Discount Subscribation Plan</h2>
+        <p>
+          <b>$50/month</b>
+        </p>
+        <a
+          className="text-red-500"
+          href="https://buy.stripe.com/test_8wM2bP5pR0Wh1SEdQQ"
+        >
+          Subscribe to Silver
+        </a>
+        <p>
+          <b>$100/6 month</b>
+        </p>
+        <a
+          className="text-red-500"
+          href="https://buy.stripe.com/test_eVa3fT19BgVf7cY001"
+        >
+          Subscribe to Silver
+        </a>
+        <p>
+          <b>$200/1 year</b>
+        </p>
+        <a
+          className="text-red-500"
+          href="https://buy.stripe.com/test_aEU8Ad4lNawR68U7su"
+        >
+          Subscribe to Silver
+        </a>
+      </div>
