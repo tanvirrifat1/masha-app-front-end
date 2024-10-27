@@ -62,7 +62,7 @@ function App() {
         <h2>This is Silver Plan</h2>
         <a
           className="text-blue-500 underline"
-          href="https://buy.stripe.com/test_fZe9B2bRKaWP39mfZ4"
+          href="http://localhost:5000/api/v1/subscribtion/subscribe?plan=silver"
         >
           Subscribe to Silver
         </a>
